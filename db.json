@@ -1,0 +1,164 @@
+{
+    "background-report": [
+      {
+        "id": 1234567890,
+        "status": 1,
+        "person": {
+          "details": {
+            "name": "Robert Lee Alderman",
+            "firstName": "Robert",
+            "middleName": "Lee",
+            "lastName": "Alderman",
+            "age": 42,
+            "city": "Crab Orchard",
+            "zip": "25827",
+            "state": "WV"
+          },
+          "summary": {
+            "dob": "1/21/1980",
+            "phone": "832-434-8481",
+            "education": "High School",
+            "household_income": "string",
+            "homeOwner": "string",
+            "gender": "Female",
+            "occupation": "Administration / Managerial",
+            "householdSize": 4,
+            "lengthOfResidence": "7 years",
+            "maritalStatus": "Single",
+            "ethnicity": "W",
+            "netWorth": "$100,000.00 - $250,000.00",
+            "dwellingType": "string",
+            "businessOwner": "string",
+            "nickname": "None found",
+            "homeMarketValue": "string"
+          },
+          "addresses": {
+            "currentAddress": {
+              "address": "16230 Mill Point Dr, Houston, TX 77059",
+              "lengthOfResidence": "Not on File",
+              "dateReported": "6/2019"
+            },
+            "previousAddresses": [
+              {
+                "address": "16230 Mill Point Dr, Houston, TX 77059",
+                "lengthOfResidence": "Not on File",
+                "dateReported": "6/2019"
+              }
+            ]
+          },
+          "contacts": {
+            "phones": [
+              {
+                "carrier": "AT&T",
+                "number": "304-253-6949",
+                "lineType": "Landline",
+                "dateReported": "11/30/2014"
+              }
+            ],
+            "emails": [
+              {
+                "provider": "Gmail",
+                "name": "Robert L. Alderman",
+                "address": "959 BAYTREE DR, FLOWOOD, MS 39232",
+                "ipAddress": "67.74.164.228",
+                "email": "ralderman@gmail.com",
+                "dateReported": "10/30/2007"
+              }
+            ]
+          },
+          "courtRecords": {
+            "arrestRecords": [
+              {}
+            ],
+            "criminalRecords": [
+              {}
+            ],
+            "sexOffenses": [
+              {}
+            ],
+            "warrants": [
+              {}
+            ],
+            "inmateRecords": [
+              {}
+            ],
+            "patriotAct": [
+              {}
+            ],
+            "bankruptcies": [
+              {}
+            ]
+          },
+          "assets": {
+            "realEstate": {},
+            "propertyOwners": {},
+            "propertyValue": {},
+            "salesHistory": {},
+            "mortgageRecords": {},
+            "propertyDetails": {},
+            "zillow": {},
+            "businessOwnership": {},
+            "investments": {},
+            "automobiles": [
+              {
+                "city": "Elkhart",
+                "make": "CHEVROLET",
+                "model": "IMPALA",
+                "year": "2008",
+                "vin": "2G1WT58K481254470"
+              }
+            ],
+            "vessel": [
+              {}
+            ]
+          },
+          "relatives": [
+            {
+              "name": "Robert Lee Alderman",
+              "firstName": "Robert",
+              "middleName": "Lee",
+              "lastName": "Alderman",
+              "age": 42,
+              "city": "Crab Orchard",
+              "zip": "25827",
+              "state": "WV"
+            }
+          ],
+          "social": [
+            {}
+          ],
+          "vitalRecords": {
+            "marriageRecords": [
+              {}
+            ],
+            "divorceRecords": [
+              {}
+            ],
+            "birthRecords": [
+              {}
+            ],
+            "deathRecords": [
+              {}
+            ]
+          },
+          "licenses": [
+            {}
+          ],
+          "political": [
+            {}
+          ],
+          "webResults": [
+            {}
+          ],
+          "neighborhood": {
+            "neighbors": [
+              {}
+            ],
+            "sexOffenders": [
+              {}
+            ]
+          }
+        }
+      }
+    ]
+  }
