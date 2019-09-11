@@ -1,4 +1,19 @@
 {
+    "account": {
+      "details": {
+        "name": "Robert Lee Alderman",
+        "email": "ralderman@gmail.com",
+        "phone": "304-253-6949",
+        "memberSince": "06/24/2019",
+        "accountStatus": "inactive"
+      },
+      "billing": {
+        "nameOnCard": "Robert Alderman",
+        "creditCard": "XXXX-XXXX-XXXX-1234",
+        "cardExpiration": "01/2021",
+        "billingZipCode": "01234"
+      }
+    },
     "background-report": [
       {
         "id": 1234567890,
